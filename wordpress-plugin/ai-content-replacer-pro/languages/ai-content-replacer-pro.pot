@@ -1,0 +1,208 @@
+# Copyright (C) 2024 AI Content Replacer Pro
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Content Replacer Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ai-content-replacer-pro\n"
+"POT-Creation-Date: 2024-01-15 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WordPress\n"
+
+#: ai-content-replacer-pro.php:12
+msgid "AI Content Replacer Pro"
+msgstr ""
+
+#: ai-content-replacer-pro.php:13
+msgid "Revolutionary WordPress plugin that transforms your website content instantly using advanced AI technology. One-click content replacement with design preservation."
+msgstr ""
+
+#: admin/dashboard.php:25
+msgid "Transform your website content instantly with AI-powered replacement technology"
+msgstr ""
+
+#: admin/dashboard.php:34
+msgid "Pages Processed"
+msgstr ""
+
+#: admin/dashboard.php:41
+msgid "AI Tokens Used"
+msgstr ""
+
+#: admin/dashboard.php:48
+msgid "Total Cost"
+msgstr ""
+
+#: admin/dashboard.php:55
+msgid "Success Rate"
+msgstr ""
+
+#: admin/dashboard.php:62
+msgid "Quick Actions"
+msgstr ""
+
+#: admin/dashboard.php:67
+msgid "Business Profile"
+msgstr ""
+
+#: admin/dashboard.php:68
+msgid "Set up your business information for personalized content generation"
+msgstr ""
+
+#: admin/dashboard.php:72
+msgid "Configure Profile"
+msgstr ""
+
+#: admin/dashboard.php:76
+msgid "AI Providers"
+msgstr ""
+
+#: admin/dashboard.php:77
+msgid "Configure multiple AI providers for intelligent content generation"
+msgstr ""
+
+#: admin/dashboard.php:81
+msgid "Setup APIs"
+msgstr ""
+
+#: admin/dashboard.php:85
+msgid "Process Content"
+msgstr ""
+
+#: admin/dashboard.php:86
+msgid "Start one-click content replacement for your website pages and posts"
+msgstr ""
+
+#: admin/dashboard.php:90
+msgid "Start Processing"
+msgstr ""
+
+#: admin/dashboard.php:94
+msgid "Analytics"
+msgstr ""
+
+#: admin/dashboard.php:95
+msgid "View detailed analytics and usage statistics for your content processing"
+msgstr ""
+
+#: admin/dashboard.php:99
+msgid "View Analytics"
+msgstr ""
+
+#: admin/business-profile.php:45
+msgid "Business Name"
+msgstr ""
+
+#: admin/business-profile.php:52
+msgid "Business Type"
+msgstr ""
+
+#: admin/business-profile.php:67
+msgid "Business Description"
+msgstr ""
+
+#: admin/business-profile.php:74
+msgid "Target Audience"
+msgstr ""
+
+#: admin/business-profile.php:81
+msgid "Services/Products"
+msgstr ""
+
+#: admin/business-profile.php:88
+msgid "Location"
+msgstr ""
+
+#: admin/business-profile.php:95
+msgid "Phone"
+msgstr ""
+
+#: admin/business-profile.php:102
+msgid "Email"
+msgstr ""
+
+#: admin/business-profile.php:109
+msgid "Website"
+msgstr ""
+
+#: admin/business-profile.php:116
+msgid "Brand Tone"
+msgstr ""
+
+#: admin/business-profile.php:131
+msgid "Keywords"
+msgstr ""
+
+#: admin/business-profile.php:145
+msgid "Unique Selling Proposition"
+msgstr ""
+
+#: admin/business-profile.php:152
+msgid "Save Business Profile"
+msgstr ""
+
+#: admin/ai-providers.php:25
+msgid "AI Providers Configuration"
+msgstr ""
+
+#: admin/ai-providers.php:29
+msgid "Configure multiple AI providers for intelligent content generation with automatic failover"
+msgstr ""
+
+#: includes/class-aicrp-security.php:85
+msgid "Script tags detected"
+msgstr ""
+
+#: includes/class-aicrp-security.php:90
+msgid "JavaScript protocols detected"
+msgstr ""
+
+#: includes/class-aicrp-security.php:95
+msgid "Event handlers detected"
+msgstr ""
+
+#: includes/class-aicrp-security.php:100
+msgid "Suspicious iframe detected"
+msgstr ""
+
+#: includes/class-aicrp-security.php:106
+msgid "Excessive HTML complexity"
+msgstr ""
+
+#: includes/class-aicrp-content-processor.php:45
+msgid "Please set up your business profile first."
+msgstr ""
+
+#: includes/class-aicrp-content-processor.php:54
+msgid "No content found to process."
+msgstr ""
+
+#: includes/class-aicrp-testing.php:125
+msgid "Input Sanitization"
+msgstr ""
+
+#: includes/class-aicrp-testing.php:155
+msgid "API Key Security"
+msgstr ""
+
+#: includes/class-aicrp-testing.php:185
+msgid "XSS Prevention"
+msgstr ""
+
+#: includes/class-aicrp-testing.php:215
+msgid "SQL Injection Prevention"
+msgstr ""
+
+#: includes/class-aicrp-testing.php:245
+msgid "Rate Limiting"
+msgstr ""
+
+#: includes/class-aicrp-testing.php:275
+msgid "Access Control"
+msgstr ""
